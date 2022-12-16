@@ -1,6 +1,8 @@
 # Final-project
 File name: experiment.py
+
 This experiment asks the user a math question and waits until a correct response is provided
+
 Aisha Ahmad
 
 This experiment asks the user addition questions and then waits for them to respond (enter numbers then click enter when they're done entering their answer). The users response and response time will be recorded. Irregardless if the user gets the question right or not they will progress to the next question.
